@@ -1,5 +1,7 @@
 <h1 align="center"> Team Spiders </h1><br/>
 
+<img align="center" src="pexels-belle-co-1000445.jpg"/>
+
 <table align="center">
   <tr>
     <th>Member no.</th>
