@@ -27,6 +27,10 @@
   </tr>
   <tr>
   <td>6</td>
-  <td>Harsh</td>
+  <td>Harsh Kumar</td>
+  </tr>
+  <tr>
+  <td>7</td>
+  <td>Firdaus Jawed</td>
   </tr>
   </table>
