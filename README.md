@@ -32,6 +32,10 @@
   <td>Harsh Kumar</td>
   </tr>
   <tr>
+  <td>7</td>
+  <td>Firdaus Jawed</td>
+  </tr>
+  <tr>
   <td>8</td>
   <td>Avinash Kumar</td>
   </tr>
