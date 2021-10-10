@@ -1,6 +1,6 @@
 <h1 align="center"> Team Spiders </h1><br/>
 
-<img align="center" height="10rem" src="pexels-belle-co-1000445.jpg"/>
+<img align="center" height="100px" src="pexels-belle-co-1000445.jpg"/>
 
 <table align="center">
   <tr>
