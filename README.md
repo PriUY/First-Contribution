@@ -1,6 +1,6 @@
 # First-Contribution
 
-<table>
+<table align="center">
   <tr>
     <th>Member no.</th>
     <th>Name</th>
