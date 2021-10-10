@@ -1,4 +1,4 @@
-# Team Spiders
+<h2 align="center"> Team Spiders </h2>
 
 <table align="center">
   <tr>
